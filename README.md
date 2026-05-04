@@ -1,4 +1,4 @@
-# Controle de Nível de Água
+# Controle de Nível de Água (primeira versão do projeto)
 
 Projeto de um sistema básico para monitoramento do nível de água em reservatórios, desenvolvido com Python.
 
